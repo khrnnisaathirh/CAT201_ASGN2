@@ -1,0 +1,23 @@
+.hotels-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .hotel-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+  
+  .hotel-item {
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .hotel-item img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
