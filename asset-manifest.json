@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/CAT201_ASGN2/static/css/main.11b2dfbc.css",
+    "main.js": "/CAT201_ASGN2/static/js/main.64d9d96b.js",
+    "static/js/488.35d931c7.chunk.js": "/CAT201_ASGN2/static/js/488.35d931c7.chunk.js",
+    "static/media/street-art.jpg": "/CAT201_ASGN2/static/media/street-art.88dc4319100cce8d3a71.jpg",
+    "static/media/penang-overview.jpg": "/CAT201_ASGN2/static/media/penang-overview.738739c4560be8780547.jpg",
+    "static/media/georgetown.jpg": "/CAT201_ASGN2/static/media/georgetown.4052ee37c1c5a8e694ed.jpg",
+    "static/media/penang-hill.jpg": "/CAT201_ASGN2/static/media/penang-hill.a4a7d61c02504e202d90.jpg",
+    "static/media/assam-laksa.jpg": "/CAT201_ASGN2/static/media/assam-laksa.ae4952f16712796718d7.jpg",
+    "static/media/char-kway-teow.jpg": "/CAT201_ASGN2/static/media/char-kway-teow.9b0ee5f806bce500b764.jpg",
+    "static/media/food.jpg": "/CAT201_ASGN2/static/media/food.421d38034fb9d2151916.jpg",
+    "static/media/kek-lok-si.jpg": "/CAT201_ASGN2/static/media/kek-lok-si.53dd81ccc479fc44f501.jpg",
+    "static/media/ShangrilaPool.jpg": "/CAT201_ASGN2/static/media/ShangrilaPool.99854e2829bacdb6734a.jpg",
+    "static/media/ShangrilaRoom.jpg": "/CAT201_ASGN2/static/media/ShangrilaRoom.80932a3d60f261841cfb.jpg",
+    "static/media/sevenTerraces.jpg": "/CAT201_ASGN2/static/media/sevenTerraces.aa2f086bfea9a7e9dc4c.jpg",
+    "static/media/batu-ferringhi.jpg": "/CAT201_ASGN2/static/media/batu-ferringhi.f695905bf24629cf6d4d.jpg",
+    "static/media/JenBuilding.jpg": "/CAT201_ASGN2/static/media/JenBuilding.c3daa3bf95cb765f7dc8.jpg",
+    "static/media/sevenPool.jpg": "/CAT201_ASGN2/static/media/sevenPool.d07991479842eebd4fde.jpg",
+    "static/media/e&oPool.jpg": "/CAT201_ASGN2/static/media/e&oPool.c46d506775fc53ec0c4a.jpg",
+    "static/media/sevenRoom.jpg": "/CAT201_ASGN2/static/media/sevenRoom.1ff93eab139bb00de092.jpg",
+    "static/media/shangrila.jpg": "/CAT201_ASGN2/static/media/shangrila.372cfad1947589cf3732.jpg",
+    "static/media/JenPool.jpg": "/CAT201_ASGN2/static/media/JenPool.9a4c2b269c4e1fbd10d5.jpg",
+    "static/media/e&oRoom.jpg": "/CAT201_ASGN2/static/media/e&oRoom.c2c973e57b46fcc0621e.jpg",
+    "static/media/hotelJen.jpg": "/CAT201_ASGN2/static/media/hotelJen.737e342fbafc79f5538b.jpg",
+    "static/media/hotel.jpg": "/CAT201_ASGN2/static/media/hotel.bd6a62fa0e7ae4bf6bde.jpg",
+    "static/media/e&oBuilding.jpg": "/CAT201_ASGN2/static/media/e&oBuilding.bc068dbd45b0f3633db5.jpg",
+    "static/media/nasiKandar.jpg": "/CAT201_ASGN2/static/media/nasiKandar.4322963cfdcabc215a89.jpg",
+    "index.html": "/CAT201_ASGN2/index.html",
+    "main.11b2dfbc.css.map": "/CAT201_ASGN2/static/css/main.11b2dfbc.css.map",
+    "main.64d9d96b.js.map": "/CAT201_ASGN2/static/js/main.64d9d96b.js.map",
+    "488.35d931c7.chunk.js.map": "/CAT201_ASGN2/static/js/488.35d931c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11b2dfbc.css",
+    "static/js/main.64d9d96b.js"
+  ]
+}
